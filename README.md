@@ -8,7 +8,7 @@ ASUS TUF Gaming F15 FX506LH
 macOS 12 (Monterey) -> macOS 15 (Sequoia)
 
 ## Screenshot (macOS 15 Sequoia)
-![Screenshot from my desktop](https://github.com/mrcxlinux/ASUS-TUF-F15-506LH-OpenCore-EFI/blob/main/gitrepores/ss.png?raw=true?raw=true)
+![Screenshot from my desktop](https://github.com/mrcxlinux/ASUS-TUF-F15-OpenCore-EFI/blob/main/gitrepores/ss.png?raw=true?raw=true)
 
 ## Hardware Status
 
